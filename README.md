@@ -36,4 +36,4 @@ https://github.com/wzyonggege/statistical-learning-method
 
 
 原理与代码整理修改：人工智能学研社
-微信公众号：![image](https://github.com/Vambooo/myimages/blob/master/dlzhishixingqiu.jpg)
+微信公众号：![image](https://github.com/Vambooo/zz/blob/master/dlzhishixingqiu.jpg)
