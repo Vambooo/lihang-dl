@@ -26,8 +26,9 @@ https://github.com/wzyonggege/statistical-learning-method
 
 微信公众号：
 
-<img src="https://github.com/Vambooo/zz/blob/master/gongzhonghao.jpg" width="200" />
+<img src="https://github.com/Vambooo/zz/blob/master/gongzhonghao.jpg" width="100" />
 
 知识星球：机器学习交流学习圈：
+<img src="https://github.com/Vambooo/zz/blob/master/dlzhishixingqiu.jpg" width="100" />
 
 ![image](https://github.com/Vambooo/zz/blob/master/dlzhishixingqiu.jpg)
