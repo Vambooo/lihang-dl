@@ -20,8 +20,7 @@
 
 
 
-参考：
-https://github.com/wzyonggege/statistical-learning-method
+
 
 
 原理与代码整理修改：人工智能学研社
