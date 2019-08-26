@@ -1,6 +1,8 @@
 **机器学习原理与实战系列**
 
-系列一 k近邻法
+系列一 k近邻法  
+系列二 朴素贝叶斯  
+系列三 决策树  
 
 
 
@@ -18,8 +20,7 @@
 
 
 
-参考：
-https://github.com/wzyonggege/statistical-learning-method
+
 
 
 原理与代码整理修改：人工智能学研社
