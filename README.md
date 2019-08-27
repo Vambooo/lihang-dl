@@ -1,7 +1,9 @@
 **机器学习原理与实战系列**
 
 [系列一 k近邻法](https://github.com/Vambooo/lihang-dl/tree/master/k近邻 "knn"). 
+
 [系列二 朴素贝叶斯](https://github.com/Vambooo/lihang-dl/tree/master/朴素贝叶斯 "bayes"). 
+
 [系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
  
 
