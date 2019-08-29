@@ -1,11 +1,10 @@
-**机器学习原理与实战系列**
+**机器学习原理与实战系列之朴素贝叶斯**
 
-[系列一 k近邻法](https://github.com/Vambooo/lihang-dl/tree/master/k近邻 "knn"). 
+[1] [条件概率]()
 
-[系列二 朴素贝叶斯](https://github.com/Vambooo/lihang-dl/tree/master/朴素贝叶斯 "bayes"). 
-
-[系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
+[2] [特征条件独立性假设]()
  
+[3] [朴素贝叶斯原理及python实现]()
 
 
 
@@ -26,7 +25,7 @@
 
 
 
-原理与代码整理修改：人工智能学研社
+原理与代码整理修改：深度学习学研社
 
 微信公众号：
 
