@@ -1,10 +1,11 @@
-**机器学习原理与实战系列**
+**机器学习原理与实战系列之Logistic Regression**
 
-[系列一 k近邻法](https://github.com/Vambooo/lihang-dl/tree/master/k近邻 "knn"). 
 
-[系列二 朴素贝叶斯](https://github.com/Vambooo/lihang-dl/tree/master/朴素贝叶斯 "bayes"). 
+[1] [二项逻辑斯谛原理及实现]()
 
-[系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
+[2] [多项项逻辑斯谛原理及实现]()
+
+[3] [最大熵模型原理及python案例]()
  
 
 
@@ -26,7 +27,7 @@
 
 
 
-原理与代码整理修改：人工智能学研社
+原理与代码整理修改：深度学习学研社
 
 微信公众号：
 
