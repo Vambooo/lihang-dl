@@ -6,7 +6,7 @@
 
 [系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
 
-[系列四 逻辑斯谛回归与最大熵模型](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
+[系列四 逻辑斯谛回归与最大熵模型](https://github.com/Vambooo/lihang-dl/tree/master/逻辑斯谛回归与最大熵模型 "logisticregression"). 
  
 
 
