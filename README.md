@@ -5,6 +5,8 @@
 [系列二 朴素贝叶斯](https://github.com/Vambooo/lihang-dl/tree/master/朴素贝叶斯 "bayes"). 
 
 [系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
+
+[系列四 逻辑斯谛回归与最大熵模型](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
  
 
 
@@ -26,7 +28,7 @@
 
 
 
-原理与代码整理修改：人工智能学研社
+原理与代码整理修改：深度学习学研社
 
 微信公众号：
 
