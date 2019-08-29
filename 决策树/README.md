@@ -1,11 +1,12 @@
-**机器学习原理与实战系列**
+**机器学习原理与实战系列之决策树**
 
-[系列一 k近邻法](https://github.com/Vambooo/lihang-dl/tree/master/k近邻 "knn"). 
+这部分内容主要包括：
 
-[系列二 朴素贝叶斯](https://github.com/Vambooo/lihang-dl/tree/master/朴素贝叶斯 "bayes"). 
+[1].[决策树原理及python实现]
 
-[系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
+[2].[ID3算法原理及python实现]
  
+[3].[C4.5算法原理及python实现]
 
 
 
@@ -25,8 +26,7 @@
 
 
 
-
-原理与代码整理修改：人工智能学研社
+原理与代码整理修改：深度学习学研社
 
 微信公众号：
 
