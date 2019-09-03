@@ -7,6 +7,10 @@
 [系列三 决策树](https://github.com/Vambooo/lihang-dl/tree/master/决策树 "decisiontree"). 
 
 [系列四 逻辑斯谛回归与最大熵模型](https://github.com/Vambooo/lihang-dl/tree/master/逻辑斯谛回归与最大熵模型 "logisticregression"). 
+
+[系列五 支持向量机](https://github.com/Vambooo/lihang-dl/tree/master/支持向量机 "svm"). 
+
+[系列四 提升方法](https://github.com/Vambooo/lihang-dl/tree/master/提升方法 "boosting"). 
  
 
 
